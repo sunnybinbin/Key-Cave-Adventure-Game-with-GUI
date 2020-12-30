@@ -13,5 +13,3 @@ There are two modes to show the game: coloured rectangles mode and images mode. 
 ![TASK_ONE](TASK_ONE.png)
 - Game example for TASK_TWO mode
 ![TASK_TWO](TASK_TWO.png)
-
-test
